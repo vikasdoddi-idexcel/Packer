@@ -2,6 +2,8 @@
   "variables": {
   },
   "builders": [{
+    "access_key": "AKIA5XDFNBWIHWPTPNO6",
+    "secret_key": "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",
     "profile": "default",
     "type": "amazon-ebs",
     "region": "us-east-1",
